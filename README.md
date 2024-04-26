@@ -3,8 +3,7 @@
 This exercise focuses on making queries to a MongoDB database that manages information about restaurants in New York City. Here you will find queries to perform various operations on the restaurant collection.
 
 > [!IMPORTANT]  
-> 
-Make sure you have a working MongoDB database and a collection named [restaurants](./collections/restaurants.json) with the data provided before running these queries.
+> Make sure you have a working MongoDB database and a collection named [restaurants](./collections/restaurants.json) with the data provided before running these queries.
 
 ## Certification levels
 
