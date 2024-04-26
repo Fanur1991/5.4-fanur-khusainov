@@ -1,20 +1,21 @@
 # MongoDB queries
 
-Este ejercicio se centra en realizar consultas a una base de datos MongoDB que gestiona información sobre restaurantes en la ciudad de Nueva York. Aquí encontrarás consultas para realizar diversas operaciones en la colección de restaurantes.
+This exercise focuses on making queries to a MongoDB database that manages information about restaurants in New York City. Here you will find queries to perform various operations on the restaurant collection.
 
 > [!IMPORTANT]  
-> Asegúrate de tener una base de datos MongoDB en funcionamiento y una colección llamada [restaurants](./collections/restaurants.json) con los datos proporcionados antes de ejecutar estas consultas.
+> 
+Make sure you have a working MongoDB database and a collection named [restaurants](./collections/restaurants.json) with the data provided before running these queries.
 
-## Niveles de certificación
+## Certification levels
 
-⭐ Nivel 1  
-17 consultas correctas.
+⭐ Level 1  
+17 correct queries.
 
-⭐⭐ Nivel 2  
-Entre 17 y 25 consultas correctas.
+⭐⭐ Level 2  
+Between 17 and 25 correct queries.
 
-⭐⭐⭐ Nivel 3  
-Más de 25 consultas correctas
+⭐⭐⭐ Level 3  
+More than 25 correct queries.
 
 ## License
 
