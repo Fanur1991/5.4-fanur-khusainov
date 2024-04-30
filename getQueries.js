@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb';
 
-const URL_DB = 'mongodb://localhost:27017';
+const URL_DB = 'mongodb://localhost:27015';
 const DB_NAME = 'Restaurants';
 
 export async function executeQuery(queryFunction) {
@@ -9,6 +9,8 @@ export async function executeQuery(queryFunction) {
     await client.connect();
     const db = client.db(DB_NAME);
     return await queryFunction(db);
+  } catch (err) {
+    console.log('Some error', err);
   } finally {
     await client.close();
   }
