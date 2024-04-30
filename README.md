@@ -16,8 +16,8 @@ This exercise focuses on making queries to a MongoDB database that manages infor
 
 ```
 git clone https://github.com/Fanur1991/IT-Academy-sprint_5.4-MongoDB-queries.git
-cd 5.4-mongodb-queries
-npm run install
+cd IT-Academy-sprint_5.4-MongoDB-queries
+npm install
 ```
 
 2. To install and run development environment virtualization (Docker), run the following command:
