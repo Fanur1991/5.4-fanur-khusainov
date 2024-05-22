@@ -291,7 +291,7 @@ export async function query_21(db) {
     .find(
       {
         $and: [
-          { cuisine: 'seafood' },
+          { cuisine: 'Seafood' },
           { cuisine: { $nin: ['American ', 'Chinese'] } },
           { name: { $not: /^Wil/ } },
         ],
